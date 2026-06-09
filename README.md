@@ -48,15 +48,15 @@ I'm a backend-focused engineer with hands-on experience across server infrastruc
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Kamran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrankhorasani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078d4&icon_color=0078d4&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankhorasani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9)
-
-</div>
+📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/IPdotSetAF/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.ipdotsetafs-projects.vercel.app/api/top-langs/?username=kamrankhorasani&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.3&count_weight=0.7" />
+  </a>
+  <a href="https://github.com/IPdotSetAF/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.ipdotsetafs-projects.vercel.app/api?username=kamrankhorasani&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
