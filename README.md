@@ -52,9 +52,9 @@ I'm a backend-focused engineer with hands-on experience across server infrastruc
 
 <div align="center">
 
-![Kamran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078d4&icon_color=0078d4&text_color=c9d1d9)
+![Kamran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrankhorasani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078d4&icon_color=0078d4&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankhorasani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9)
 
 </div>
 
@@ -75,9 +75,9 @@ I'm a backend-focused engineer with hands-on experience across server infrastruc
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrankhorasani)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamrankhorasani)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamran.gamedev@email.com)
 
 </div>
 
